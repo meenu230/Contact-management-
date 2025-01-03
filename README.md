@@ -29,3 +29,8 @@ This is a web-based Contact Management Application built using React and Node.js
 
 ## License
 MIT License
+
+My html css and javascript 
+configure jsp/thymeleaf
+Implemented  presentation logic in all pages
+All are in resource folder and html in templates and css in static folder and  jsp/ thymeleaf in resource folder
